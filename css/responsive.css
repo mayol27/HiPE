@@ -1,0 +1,743 @@
+@media screen and (max-width: 1024px) {
+  #nav-fixed {
+    height: 83px; }
+    #nav-fixed #top-nav {
+      display: none; }
+    #nav-fixed .move-btm {
+      top: 0 !important;
+      border-top: 3px solid #3544EE !important;
+      border-bottom: 1px solid #F0F1F9;
+      height: 83px !important; }
+      #nav-fixed .move-btm .container .navbar-nav {
+        display: none; }
+    #nav-fixed .menu-toggle {
+      display: initial !important; }
+    #nav-fixed #sidebar-wrapper {
+      display: initial !important; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav {
+        left: 0;
+        top: 0;
+        text-align: center; }
+        #nav-fixed #sidebar-wrapper .sidebar-nav .nav-border {
+          display: inherit;
+          position: absolute;
+          top: 311px;
+          left: 0;
+          height: 1px;
+          width: 717px;
+          background: #ffff;
+          opacity: 0.2; }
+        #nav-fixed #sidebar-wrapper .sidebar-nav .sd-soc a {
+          display: block; }
+  #slogan-sec .container .row .col-lg-9 h3 {
+    padding-right: 126px; }
+  #slogan-sec .container .row .col-lg-3 .slgn-btn-main {
+    margin-top: 61px; }
+    #slogan-sec .container .row .col-lg-3 .slgn-btn-main .contct-btn {
+      padding: 14px 55px 16px; }
+  .contct-descrp {
+    margin-left: calc(100% - 363px); }
+  .team-sec .container .tm-content {
+    padding: 0 140px;
+    padding-bottom: 40px; }
+  .team-sec .container .owl-carousel .item .team-card {
+    width: 296px;
+    height: 426px; }
+    .team-sec .container .owl-carousel .item .team-card:hover {
+      box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0); }
+    .team-sec .container .owl-carousel .item .team-card img {
+      height: 180px; }
+    .team-sec .container .owl-carousel .item .team-card .team-descript {
+      padding: 18px 19px; }
+  .hero-main .hero-overlay .container .row .col-lg-12 {
+    text-align: center; }
+    .hero-main .hero-overlay .container .row .col-lg-12 h1 {
+      padding: 0;
+      padding-bottom: 20px; }
+    .hero-main .hero-overlay .container .row .col-lg-12 p {
+      padding: 0 100px;
+      padding-bottom: 40px; }
+  .cmpny-main .container-fluid .row .col-lg-6 {
+    padding: 0; }
+    .cmpny-main .container-fluid .row .col-lg-6 .c-img-main .c-img1 {
+      height: 320px; }
+    .cmpny-main .container-fluid .row .col-lg-6 .c-img-main .c-img2 {
+      height: 320px; }
+  .serv-main .serv-bg {
+    display: none; }
+  .serv-main .container .s-intro {
+    color: #181825; }
+  .serv-main .container .s-detail {
+    color: #626582;
+    padding: 0 140px;
+    padding-bottom: 40px; }
+  .serv-main .container .row .col-lg-4 .serv-card {
+    height: 485px;
+    width: 296px; }
+    .serv-main .container .row .col-lg-4 .serv-card .img-serv {
+      height: 207px;
+      width: 294px;
+      margin-left: 0;
+      margin-top: 0; }
+    .serv-main .container .row .col-lg-4 .serv-card .serv-descript {
+      padding: 18px 19px; }
+  .compny-content .container-fluid .row .col-lg-6 {
+    padding: 0; }
+    .compny-content .container-fluid .row .col-lg-6 .c-img-main .c-img1 {
+      height: 320px; }
+    .compny-content .container-fluid .row .col-lg-6 .c-img-main .c-img2 {
+      height: 320px; }
+  .compny-val .container .c-val-intro .c-val-d {
+    padding: 0 140px;
+    padding-bottom: 55px; }
+  .compny-tm .container .ct-content {
+    padding: 0 140px;
+    padding-bottom: 40px; }
+  .compny-tm .container .row .col-lg-4 .team-card {
+    width: 296px;
+    height: 426px; }
+    .compny-tm .container .row .col-lg-4 .team-card img {
+      height: 180px; }
+    .compny-tm .container .row .col-lg-4 .team-card .team-descript {
+      padding: 18px 19px; } }
+
+@media screen and (max-width: 768px) {
+  #nav-fixed .menu-toggle {
+    display: initial !important; }
+  #nav-fixed #sidebar-wrapper {
+    display: initial !important; }
+    #nav-fixed #sidebar-wrapper .sidebar-nav .nav-border {
+      width: 538px; }
+  .top-footer {
+    padding-top: 60px;
+    padding-bottom: 83px; }
+    .top-footer .container .row .col-lg-3 .ftcol a {
+      padding-bottom: 43px;
+      padding-top: 41px; }
+    .top-footer .container .row .col-lg-2 .ftnav h5 {
+      padding-top: 41px;
+      text-align: left; }
+    .top-footer .container .row .col-lg-2 .ftsoc h5 {
+      padding-top: 41px;
+      text-align: left; }
+    .top-footer .container .row .col-lg-5 .ftform {
+      text-align: center; }
+      .top-footer .container .row .col-lg-5 .ftform h5 {
+        padding-top: 41px;
+        text-align: left; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp {
+    margin-left: 0;
+    text-align: center; }
+  #map .container-fluid .row .col-lg-7 .row iframe {
+    height: 320px; }
+  #slogan-sec .container .row .col-lg-9 h3 {
+    text-align: center;
+    padding-right: 0; }
+  #slogan-sec .container .row .col-lg-3 .slgn-btn-main {
+    text-align: center; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp {
+    margin-left: 0;
+    text-align: center; }
+    #map .container-fluid .row .col-lg-5 .contct-descrp .inline-block {
+      padding-bottom: 60px;
+      padding-left: 16px; }
+  .team-sec {
+    padding-top: 53px; }
+    .team-sec .container .tm-content {
+      padding: 0 59px;
+      padding-bottom: 40px; }
+    .team-sec .container .owl-carousel .owl-stage-outer .owl-stage .owl-item .item .team-card {
+      margin: 0 auto;
+      width: 326px;
+      height: 403px; }
+      .team-sec .container .owl-carousel .owl-stage-outer .owl-stage .owl-item .item .team-card:hover {
+        box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0); }
+    .team-sec .container .owl-carousel .owl-stage-outer {
+      padding: 0; }
+  .cmpny-main {
+    padding-top: 53px; }
+    .cmpny-main .container .row h2 {
+      font-size: 43px;
+      line-height: 50px;
+      text-align: center; }
+    .cmpny-main .container .row p {
+      text-align: center; }
+    .cmpny-main .container .row .btn-read-m {
+      margin: 0 auto; }
+    .cmpny-main .container-fluid {
+      margin-top: 80px; }
+      .cmpny-main .container-fluid .row .col-lg-6 .c-img-main .c-img1 {
+        height: 250px; }
+      .cmpny-main .container-fluid .row .col-lg-6 .c-img-main .c-img2 {
+        height: 250px; }
+  .serv-main {
+    padding-top: 53px;
+    padding-bottom: 60px; }
+    .serv-main .container .s-detail {
+      padding: 0 59px;
+      padding-bottom: 40px; }
+    .serv-main .container .row .col-lg-4 .mb-50 {
+      margin-bottom: 30px; }
+    .serv-main .container .row .col-lg-4 .serv-card {
+      height: 482px;
+      width: 326px;
+      box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0); }
+      .serv-main .container .row .col-lg-4 .serv-card:hover {
+        box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0); }
+      .serv-main .container .row .col-lg-4 .serv-card .img-serv {
+        height: 228px;
+        width: 324px; }
+  .serv-sec .serv-bg {
+    height: 180px; }
+    .serv-sec .serv-bg .container-fluid .row .col-lg-12 h2 {
+      font-size: 34px;
+      padding: 80px 0; }
+  .serv-content {
+    padding-top: 35px; }
+    .serv-content .container {
+      padding: 0; }
+      .serv-content .container .row .col-lg-2 .serv-side-nav-main {
+        padding-left: 15px; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12 {
+          text-align: center;
+          padding: 0; }
+          .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12 a {
+            font-size: 15px; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-md3 {
+          flex: 0 0 30%;
+          text-align: center;
+          padding: 10px 0; }
+          .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-md3:first-child {
+            padding-top: 10px; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-xs6 {
+          text-align: center; }
+      .serv-content .container .row .col-lg-10 .pad-contnt {
+        padding-left: 0px;
+        padding-top: 35px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-web {
+          width: 720px;
+          height: 320px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress {
+          width: 720px;
+          height: 320px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-manage {
+          width: 720px;
+          height: 320px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-graph {
+          width: 720px;
+          height: 320px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte {
+          width: 720px;
+          height: 320px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile {
+          width: 720px;
+          height: 320px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .web-text .btn-quote {
+          font-size: 18px;
+          padding: 20px 34px; }
+  .compny-sec .compny-bg {
+    height: 180px; }
+    .compny-sec .compny-bg .container-fluid .row .col-lg-12 h2 {
+      font-size: 34px;
+      padding: 80px 0; }
+  .compny-content .container .row .col-lg-6 h2 {
+    font-size: 43px;
+    line-height: 50px;
+    text-align: center; }
+  .compny-content .container .row .col-lg-6 p {
+    text-align: left; }
+  .compny-content .container .row .col-lg-6 .pd-cont-btm {
+    padding-bottom: 20px; }
+  .compny-content .container .row .col-lg-6 .pd-cont-top {
+    padding-top: 20px;
+    padding-bottom: 20px; }
+  .compny-content .container-fluid {
+    margin-top: 65px; }
+    .compny-content .container-fluid .row .col-lg-6 .c-img-main .c-img1 {
+      height: 250px; }
+    .compny-content .container-fluid .row .col-lg-6 .c-img-main .c-img2 {
+      height: 250px; }
+  .compny-val .container .c-val-intro .c-val-d {
+    padding: 0 59px;
+    padding-bottom: 55px; }
+  .compny-tm {
+    padding-top: 53px;
+    padding-bottom: 65px; }
+    .compny-tm .container .ct-content {
+      padding: 0 59px;
+      padding-bottom: 40px; }
+    .compny-tm .container .row .col-lg-4 .team-card {
+      width: 326px;
+      height: 403px; }
+      .compny-tm .container .row .col-lg-4 .team-card:hover {
+        box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0); }
+      .compny-tm .container .row .col-lg-4 .team-card .team-descript {
+        padding: 18px 19px; }
+  .contact-sec .contact-bg {
+    height: 180px; }
+    .contact-sec .contact-bg .container-fluid .row .col-lg-12 h2 {
+      font-size: 34px;
+      padding: 80px 0; }
+  .contact-map iframe {
+    height: 320px; }
+  .contact-contnt .container .row .col-lg-6 .contact-info {
+    text-align: center;
+    padding-bottom: 85px; }
+    .contact-contnt .container .row .col-lg-6 .contact-info h3 {
+      padding: 0 120px;
+      padding-bottom: 21px; }
+    .contact-contnt .container .row .col-lg-6 .contact-info .cntact-d {
+      padding-bottom: 21px; }
+  .contact-contnt .container .row .col-lg-6 form {
+    text-align: center; } }
+
+@media screen and (max-width: 425px) {
+  .col-xs-6 {
+    flex: 0 0 50%; }
+  #nav-fixed {
+    height: 63px; }
+    #nav-fixed .move-btm {
+      height: 63px; }
+    #nav-fixed #sidebar-wrapper .sidebar-nav {
+      top: 10px !important; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .sidebar-brand a {
+        font-size: 38px;
+        padding-right: 75px;
+        padding-right: 103px; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .nav-border {
+        top: 273px;
+        width: 425px; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .side-item a {
+        text-align: left;
+        font-size: 17px !important; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .side-item .sd-compny {
+        padding-right: 115px; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .side-item .sd-serv {
+        padding-right: 122px; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .side-item .sd-team {
+        padding-right: 145px; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .side-item .sd-contct {
+        padding-right: 101px;
+        display: initial; }
+      #nav-fixed #sidebar-wrapper .sidebar-nav .sd-soc a {
+        padding-left: 33px; }
+    #nav-fixed #sidebar-wrapper.active {
+      width: 100%; }
+  .top-footer {
+    padding-top: 45px;
+    padding-bottom: 80px;
+    text-align: center; }
+    .top-footer .container .row .col-lg-3 .ftcol {
+      margin-bottom: 36px; }
+      .top-footer .container .row .col-lg-3 .ftcol a {
+        padding-bottom: 25px; }
+      .top-footer .container .row .col-lg-3 .ftcol p {
+        padding-bottom: 14px; }
+    .top-footer .container .row .col-lg-2 .ftnav {
+      margin-bottom: 36px; }
+      .top-footer .container .row .col-lg-2 .ftnav h5 {
+        padding-bottom: 25px;
+        margin: 0;
+        text-align: center !important; }
+      .top-footer .container .row .col-lg-2 .ftnav .row #ftnav-col1 a:last-child {
+        padding-bottom: 0;
+        margin-left: -8px; }
+      .top-footer .container .row .col-lg-2 .ftnav .row #ftnav-col2 a:last-child {
+        padding-bottom: 0;
+        margin-left: 10px; }
+    .top-footer .container .row .col-lg-2 .ftsoc h5 {
+      padding-bottom: 25px;
+      margin: 0;
+      text-align: center !important; }
+    .top-footer .container .row .col-lg-2 .ftsoc .row #ftsoc-col1 a .fa-twitter {
+      margin-left: -21px; }
+    .top-footer .container .row .col-lg-2 .ftsoc .row #ftsoc-col1 a:last-child {
+      padding: 0; }
+    .top-footer .container .row .col-lg-2 .ftsoc .row #ftsoc-col2 a .fa-line {
+      margin-left: -31px; }
+    .top-footer .container .row .col-lg-2 .ftsoc .row #ftsoc-col2 a:last-child {
+      padding: 0; }
+    .top-footer .container .row .col-lg-5 .ftform h5 {
+      padding-top: 41px;
+      padding-bottom: 25px;
+      margin: 0;
+      text-align: center !important; }
+    .top-footer .container .row .col-lg-5 .ftform form .form-group .form-row .col {
+      flex: 0 0 100%; }
+      .top-footer .container .row .col-lg-5 .ftform form .form-group .form-row .col .full-name {
+        margin-bottom: 18px; }
+  #slogan-sec .container .row .col-lg-9 h3 {
+    font-size: 28px;
+    padding: 0 20px; }
+  .team-sec {
+    padding-top: 40px;
+    padding-bottom: 58px; }
+    .team-sec .container .tm-content {
+      font-size: 16px;
+      padding: 0 20px;
+      padding-bottom: 30px; }
+    .team-sec .container .owl-carousel .owl-stage-outer .owl-stage .owl-item .item .team-card {
+      margin: 0 auto;
+      width: 370px;
+      height: 443px; }
+      .team-sec .container .owl-carousel .owl-stage-outer .owl-stage .owl-item .item .team-card .img-team {
+        height: 220px; }
+    .team-sec .container .owl-carousel .owl-stage-outer {
+      padding: 0; }
+  .hero-main .hero-overlay {
+    padding-top: 20%;
+    padding-bottom: 17%; }
+    .hero-main .hero-overlay .container .row .col-lg-12 h1 {
+      font-size: 34px; }
+    .hero-main .hero-overlay .container .row .col-lg-12 p {
+      font-size: 16px;
+      padding: 0 20px;
+      padding-bottom: 40px; }
+  .cmpny-main {
+    padding-bottom: 80px;
+    padding-top: 40px; }
+    .cmpny-main .container .row h2 {
+      font-size: 34px;
+      line-height: 42px;
+      padding: 0 64px;
+      padding-bottom: 31px; }
+    .cmpny-main .container .row p {
+      padding: 0 43px;
+      padding-bottom: 30px;
+      font-size: 16px; }
+    .cmpny-main .container-fluid {
+      margin: 0;
+      display: none; }
+  .serv-main {
+    padding-top: 35px;
+    padding-bottom: 20px; }
+    .serv-main .container .s-detail {
+      padding: 0 20px;
+      padding-bottom: 40px; }
+    .serv-main .container .row .col-lg-4 .mb-50 {
+      margin: 0; }
+    .serv-main .container .row .col-lg-4 .serv-card {
+      height: 513px;
+      width: 370px;
+      margin: 0 auto;
+      margin-bottom: 40px; }
+      .serv-main .container .row .col-lg-4 .serv-card .img-serv {
+        height: 259px;
+        width: 368px; }
+      .serv-main .container .row .col-lg-4 .serv-card .serv-descript {
+        padding: 18px 19px; }
+  .serv-sec .brd-crmb-main {
+    text-align: center; }
+  .serv-content {
+    padding-top: 25px; }
+    .serv-content .container {
+      padding: 0 15px; }
+      .serv-content .container .row .col-lg-2 .serv-side-nav-main {
+        padding: 0; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12 {
+          text-align: center; }
+          .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12:first-child {
+            display: block;
+            padding: 17px 0; }
+          .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12 a {
+            font-size: 16px; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-sm2 {
+          text-align: center; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-xs6 {
+          flex: 0 0 50%;
+          text-align: center; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out2 {
+          display: block;
+          padding: 8px; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out4 {
+          display: block;
+          padding: 20px 0; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out5 {
+          display: block;
+          padding: 8px 19px; }
+        .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out6 {
+          display: block;
+          padding: 18px 22px; }
+      .serv-content .container .row .col-lg-10 .pad-contnt {
+        padding-top: 22px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-web, .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress, .serv-content .container .row .col-lg-10 .pad-contnt .img-manage, .serv-content .container .row .col-lg-10 .pad-contnt .img-graph, .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte, .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile {
+          width: 396px;
+          height: 182px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .img-web .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-manage .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-graph .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile .text h1 {
+          font-size: 33px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .web-text p {
+          font-size: 14px;
+          padding-bottom: 20px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .web-text ul li {
+          font-size: 14px; }
+        .serv-content .container .row .col-lg-10 .pad-contnt .web-text .btn-quote {
+          font-size: 18px;
+          padding: 18px 34px; }
+  .compny-sec .compny-bg {
+    height: 180px; }
+    .compny-sec .compny-bg .container-fluid .row .col-lg-12 h2 {
+      font-size: 34px;
+      padding: 80px 0; }
+  .compny-sec .compny-brd-crb-bg .container .row .col-lg-12 .compny-crmb-main {
+    text-align: center; }
+  .compny-content {
+    padding-bottom: 40px;
+    padding-top: 40px; }
+    .compny-content .container .row .col-lg-6 h2 {
+      font-size: 43px;
+      line-height: 50px;
+      text-align: center; }
+    .compny-content .container .row .col-lg-6 p {
+      text-align: left;
+      font-size: 16px;
+      padding: 0 10px; }
+    .compny-content .container .row .col-lg-6 .pd-cont-btm {
+      padding-bottom: 20px; }
+    .compny-content .container .row .col-lg-6 .pd-cont-top {
+      padding-top: 20px;
+      padding-bottom: 20px; }
+    .compny-content .container-fluid {
+      display: none; }
+  .compny-val {
+    padding-bottom: 25px; }
+    .compny-val .container .c-val-intro .c-val-d {
+      padding: 0 20px;
+      padding-bottom: 55px; }
+    .compny-val .container .row .col-lg-4 .cval-item1, .compny-val .container .row .col-lg-4 .cval-item2, .compny-val .container .row .col-lg-4 .cval-item3 {
+      padding-bottom: 0; }
+    .compny-val .container .row .col-lg-4 .cval-item4, .compny-val .container .row .col-lg-4 .cval-item5, .compny-val .container .row .col-lg-4 .cval-item6 {
+      padding-bottom: 0; }
+    .compny-val .container .row .col-lg-4 .cval-item1, .compny-val .container .row .col-lg-4 .cval-item2, .compny-val .container .row .col-lg-4 .cval-item3, .compny-val .container .row .col-lg-4 .cval-item4, .compny-val .container .row .col-lg-4 .cval-item5, .compny-val .container .row .col-lg-4 .cval-item6 {
+      padding: 0 20px;
+      padding-bottom: 25px; }
+      .compny-val .container .row .col-lg-4 .cval-item1 h4, .compny-val .container .row .col-lg-4 .cval-item2 h4, .compny-val .container .row .col-lg-4 .cval-item3 h4, .compny-val .container .row .col-lg-4 .cval-item4 h4, .compny-val .container .row .col-lg-4 .cval-item5 h4, .compny-val .container .row .col-lg-4 .cval-item6 h4 {
+        text-align: center; }
+      .compny-val .container .row .col-lg-4 .cval-item1 p, .compny-val .container .row .col-lg-4 .cval-item2 p, .compny-val .container .row .col-lg-4 .cval-item3 p, .compny-val .container .row .col-lg-4 .cval-item4 p, .compny-val .container .row .col-lg-4 .cval-item5 p, .compny-val .container .row .col-lg-4 .cval-item6 p {
+        text-align: center; }
+  .compny-tm {
+    padding-top: 53px;
+    padding-bottom: 65px; }
+    .compny-tm .container .ct-content {
+      padding: 0 20px;
+      padding-bottom: 40px; }
+    .compny-tm .container .row .col-lg-4 .team-card {
+      width: 370px;
+      height: 403px;
+      margin: 0 auto;
+      margin-bottom: 30px; }
+      .compny-tm .container .row .col-lg-4 .team-card img {
+        height: 220px; }
+  .contact-sec .brd-crmb-main {
+    text-align: center; }
+  .contact-contnt {
+    padding-bottom: 80px;
+    padding-top: 40px; }
+    .contact-contnt .container .row .col-lg-6 .contact-info {
+      text-align: center;
+      padding-bottom: 62px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info h3 {
+        padding: 0;
+        padding-bottom: 21px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info .cntact-d {
+        padding-bottom: 21px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info .inline-block {
+        padding-left: 16px; }
+    .contact-contnt .container .row .col-lg-6 form {
+      text-align: center; }
+      .contact-contnt .container .row .col-lg-6 form .form-group .form-row .col-lg-6 .frst-nm {
+        margin-bottom: 18px; } }
+
+@media screen and (max-width: 375px) {
+  #sidebar-wrapper .sidebar-nav .nav-border {
+    width: 375px; }
+  .team-sec .container .tm-content {
+    font-size: 16px;
+    padding: 0 20px;
+    padding-bottom: 30px; }
+  .team-sec .container .owl-carousel .item .team-card {
+    width: 345px !important;
+    height: 428px; }
+    .team-sec .container .owl-carousel .item .team-card .img-team {
+      height: 205px; }
+  .team-sec .container .owl-carousel .owl-stage-outer {
+    padding: 0; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp h3 {
+    font-size: 28px; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp .cntact-d {
+    padding: 0 20px;
+    padding-bottom: 21px; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp .cntact-txt {
+    padding: 0 20px;
+    padding-bottom: 24px; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp .inline-block {
+    padding-left: 8px; }
+    #map .container-fluid .row .col-lg-5 .contct-descrp .inline-block a .fab {
+      margin-right: 10px; }
+  .hero-main .hero-overlay {
+    padding-top: 23%; }
+  .cmpny-main .container .row h2 {
+    padding: 0 40px;
+    padding-bottom: 30px; }
+  .cmpny-main .container .row p {
+    padding: 0 23px;
+    padding-bottom: 30px; }
+  .serv-main {
+    padding-bottom: 20px; }
+    .serv-main .container .s-detail {
+      padding: 0 20px;
+      padding-bottom: 40px; }
+    .serv-main .container .row .col-lg-4 .mb-50 {
+      margin: 0; }
+    .serv-main .container .row .col-lg-4 .serv-card {
+      margin: 0 auto;
+      height: 482px;
+      width: 326px;
+      margin-bottom: 40px; }
+      .serv-main .container .row .col-lg-4 .serv-card .img-serv {
+        width: 324px;
+        height: 228px; }
+  .serv-content .container .row .col-lg-2 .serv-side-nav-main {
+    padding-left: 4px;
+    padding-right: 5px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12 .side-nav1 {
+      display: block;
+      padding: 0 12px; }
+  .serv-content .container {
+    padding: 0 15px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12:first-child {
+      padding: 8px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out2 {
+      padding: 8px 20px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out4 {
+      padding: 20px 8px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out5 {
+      padding: 8px 20px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out6 {
+      padding: 8px 20px; }
+    .serv-content .container .row .col-lg-10 .pad-contnt .img-web, .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress, .serv-content .container .row .col-lg-10 .pad-contnt .img-manage, .serv-content .container .row .col-lg-10 .pad-contnt .img-graph, .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte, .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile {
+      width: 346px;
+      height: 160px; }
+    .serv-content .container .row .col-lg-10 .pad-contnt .img-web .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-manage .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-graph .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile .text h1 {
+      font-size: 28px; }
+  .compny-tm {
+    padding-top: 53px;
+    padding-bottom: 65px; }
+    .compny-tm .container .ct-content {
+      padding: 0 20px; }
+    .compny-tm .container .row .col-lg-4 .team-card {
+      width: 326px;
+      height: 403px; }
+      .compny-tm .container .row .col-lg-4 .team-card img {
+        height: 205px; }
+  .contact-contnt {
+    padding-bottom: 80px;
+    padding-top: 40px; }
+    .contact-contnt .container .row .col-lg-6 .contact-info {
+      text-align: center;
+      padding-bottom: 53px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info h3 {
+        padding: 0 20px;
+        padding-bottom: 21px;
+        font-size: 28px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info .cntact-d {
+        padding-bottom: 21px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info .inline-block {
+        padding-left: 8px; }
+        .contact-contnt .container .row .col-lg-6 .contact-info .inline-block a .fab {
+          margin-right: 10px; }
+    .contact-contnt .container .row .col-lg-6 form {
+      text-align: center; }
+      .contact-contnt .container .row .col-lg-6 form h3 {
+        font-size: 28px; }
+      .contact-contnt .container .row .col-lg-6 form .form-group .form-row .col-lg-6 .frst-nm {
+        margin-bottom: 18px; } }
+
+@media screen and (max-width: 320px) {
+  .move-btm {
+    padding-top: 0 !important; }
+  #map .container-fluid .row .col-lg-5 .contct-descrp .inline-block a .fab {
+    margin-right: 4px; }
+  .team-sec .container .tm-content {
+    padding: 0 5px;
+    padding-bottom: 30px; }
+  .team-sec .container .owl-carousel .item .team-card {
+    width: 290px !important;
+    height: 474px !important; }
+    .team-sec .container .owl-carousel .item .team-card .img-team {
+      height: 178px; }
+    .team-sec .container .owl-carousel .item .team-card .team-descript {
+      padding: 22px 19px; }
+  .team-sec .container .owl-carousel .owl-stage-outer {
+    padding: 0; }
+    .team-sec .container .owl-carousel .owl-stage-outer .owl-stage .owl-item {
+      margin-right: 10px; }
+  .cmpny-main .container .row h2 {
+    padding: 0 26px;
+    padding-bottom: 30px; }
+  .serv-main .container .s-intro {
+    padding: 0 11px; }
+  .serv-main .container .s-detail {
+    padding: 0 20px;
+    padding-bottom: 40px; }
+  .serv-main .container .row .col-lg-4 .mb-50 {
+    margin: 0; }
+  .serv-main .container .row .col-lg-4 .serv-card {
+    width: 286px;
+    height: 478px;
+    margin: 0 auto;
+    margin-bottom: 30px; }
+    .serv-main .container .row .col-lg-4 .serv-card .img-serv {
+      width: 284px;
+      height: 200px; }
+  .serv-content .container .row .col-lg-2 .serv-side-nav-main {
+    padding-right: 10px; }
+  .serv-content .container {
+    padding: 0 15px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .col-lg12 .side-nav1 {
+      padding: 0; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out2 {
+      padding: 8px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out4 {
+      padding: 20px 8px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out5 {
+      padding: 8px; }
+    .serv-content .container .row .col-lg-2 .serv-side-nav-main .side-out6 {
+      padding: 8px; }
+    .serv-content .container .row .col-lg-10 .pad-contnt .img-web, .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress, .serv-content .container .row .col-lg-10 .pad-contnt .img-manage, .serv-content .container .row .col-lg-10 .pad-contnt .img-graph, .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte, .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile {
+      width: 291px;
+      height: 134px; }
+    .serv-content .container .row .col-lg-10 .pad-contnt .img-web .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-wordpress .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-manage .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-graph .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-mainte .text h1, .serv-content .container .row .col-lg-10 .pad-contnt .img-mobile .text h1 {
+      font-size: 24px; }
+  .compny-sec .compny-bg .container-fluid .row .col-lg-12 h2 {
+    font-size: 34px;
+    padding: 67px 0; }
+  .compny-val .container .c-val-intro .c-val-d {
+    padding: 0 10px;
+    padding-bottom: 45px; }
+  .compny-val .container .row .col-lg-4 .cval-item1, .compny-val .container .row .col-lg-4 .cval-item2, .compny-val .container .row .col-lg-4 .cval-item3, .compny-val .container .row .col-lg-4 .cval-item4, .compny-val .container .row .col-lg-4 .cval-item5, .compny-val .container .row .col-lg-4 .cval-item6 {
+    padding: 0 8px;
+    padding-bottom: 25px; }
+  .compny-tm {
+    padding-top: 53px;
+    padding-bottom: 65px; }
+    .compny-tm .container .ct-content {
+      padding: 0 20px; }
+    .compny-tm .container .row .col-lg-4 .team-card {
+      width: 286px;
+      height: 426px; }
+      .compny-tm .container .row .col-lg-4 .team-card img {
+        height: 178px; }
+  .contact-contnt {
+    padding-bottom: 50px;
+    padding-top: 40px; }
+    .contact-contnt .container .row .col-lg-6 .contact-info {
+      text-align: center;
+      padding-bottom: 53px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info h3 {
+        padding: 0 20px;
+        padding-bottom: 21px;
+        font-size: 28px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info .cntact-d {
+        padding-bottom: 21px; }
+      .contact-contnt .container .row .col-lg-6 .contact-info .inline-block a .fab {
+        margin-right: 4px; } }
